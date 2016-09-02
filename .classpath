@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/cameron Witcher/Downloads/spigot-1.9.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/cameron Witcher/Downloads/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cameron Witcher/Downloads/CrackShot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cameron Witcher/Downloads/NoCheatPlus.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
